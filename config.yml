@@ -23,7 +23,6 @@ menu:
 params:
     description: "复旦大学软件工程本科生"
     author: "陈董祺"
-    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -44,12 +43,13 @@ params:
     UseHugoToc: true
     comments: false
     math: true
-       profileMode:
-          enabled: true
-          title: "陈东琦"
-          subtitle: "复旦大学 软件工程 本科在读"
-          imageUrl: "avatar.jpg"  # 需要添加你的照片
-          buttons:
+    
+    profileMode:
+        enabled: true
+        title: "陈董祺"
+        subtitle: "复旦大学 软件工程 本科在读"
+        imageUrl: "avatar.jpg"
+        buttons:
             - name: 项目经历
               url: projects/
             - name: 课程作业
@@ -60,15 +60,12 @@ params:
           url: https://github.com/DqChen77
         - name: Email
           url: mailto:2091984032@qq.com
+
     assets:
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
-    label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
-      iconHeight: 18
 
 markup:
     goldmark:
