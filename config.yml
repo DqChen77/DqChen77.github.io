@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Chen Dongqi
+title: 陈董祺
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -10,19 +10,19 @@ taxonomies:
 
 menu:
     main:
-        - name: "Projects"
+        - name: "项目经历"
           url: projects/
           weight: 1
-        - name: "Coursework"
+        - name: "课程作业"
           url: coursework/
           weight: 2
-        - name: "About"
+        - name: "关于我"
           url: about/
           weight: 3
 
 params:
-    description: "An undergraduate student majoring in Software Engineering at Fudan University. Passionate about software development and system design. Experienced in full-stack development, compiler design, and computer vision."
-    author: "Chen Dongqi"
+    description: "复旦大学软件工程本科生，热爱软件开发和系统设计，拥有全栈开发、编译器设计和计算机视觉方面的经验。"
+    author: "陈董祺"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -46,15 +46,15 @@ params:
     
     profileMode:
         enabled: true
-        title: "Chen Dongqi"
-        subtitle: "Software Engineering Undergraduate at Fudan University"
+        title: "陈董祺"
+        subtitle: "复旦大学软件工程本科在读学生，热衷于集合与图论，算法设计与分析，人工智能等。"
         imageUrl: "avatar.jpg"
-        imageWidth: 272
-        imageHeight: 354
+        imageWidth: 136
+        imageHeight: 177
         buttons:
-            - name: Projects
+            - name: 项目经历
               url: projects/
-            - name: Coursework
+            - name: 课程作业
               url: coursework/
             
     socialIcons:
