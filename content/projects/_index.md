@@ -12,7 +12,7 @@ title: "项目经历"
 
 ## 数据结构与算法可视化教学平台
 - **项目简介**: 基于Angular的交互式算法可视化教学平台
-- **GitHub**: [eric-lyc/f-cking-Senior-web-pj](https://github.com/eric-lyc/f-cking-Senior-web-pj) (私人项目)
+- **GitHub**: [eric-lyc/Web-Typescript](https://github.com/eric-lyc/f-cking-Senior-web-pj) (私人项目)
 - **技术栈**: Angular 17 + TypeScript + Node.js + Express
 - **核心功能**:
   - 图算法可视化：实现Dijkstra最短路径、Prim和Kruskal最小生成树算法的动画演示
