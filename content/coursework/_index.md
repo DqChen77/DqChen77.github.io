@@ -13,7 +13,7 @@ title: "课程作业"
   - 探索了基于自然日期和交易日的两种数据处理方法
 
 ## 面部表情识别系统 (机器学习系统课程论文)
-- **项目链接**: [prophey](https://github.com/Petitater/mlspj)
+- **项目链接**: [mlspj](https://github.com/Petitater/mlspj)
 - **技术栈**: 深度学习、计算机视觉、注意力机制、多任务学习
 - **主要工作**:
   - 基于DDAMFN网络架构进行面部表情识别研究
