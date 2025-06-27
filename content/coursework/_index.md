@@ -3,7 +3,7 @@ title: "课程作业"
 ---
 
 ## 股票市场预测：时间序列与文本挖掘
-- **项目链接**: [prophey](https://github.com/Petitater/prophey)
+- **项目链接**: [prophecy](https://github.com/Petitater/prophey)
 - **技术栈**: 时间序列分析、文本挖掘、机器学习、金融数据分析
 - **主要工作**:
   - 结合新闻数据和股票历史数据进行股价预测
